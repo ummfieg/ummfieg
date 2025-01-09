@@ -7,7 +7,7 @@
     </div>
         <br/>
           <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☺︎ certificate </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☺︎ certificates </h2>  
     <div style="font-weight: 600; font-size: 15px; text-align: center; color: #282d33;"> <li> SQL Developer(2024) </div> 
     </div>
          <br/>
